@@ -100,6 +100,10 @@ body {
     width: 100%;
     border-radius: 15px;
     box-shadow: 24px 4px 5px rgba(4, 0, 0, 0.1);
+    hover: {
+        transform: scale(1.05);
+        transition: transform 0.3s;
+    }   
 }
 .video {
     margin-top: 30px;
