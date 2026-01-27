@@ -125,3 +125,12 @@ body {
     margin: 0 auto;
     text-align: justify;
 }
+form {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 24px 4px 5px rgba(4, 0, 0, 0.1);
+}
