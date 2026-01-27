@@ -145,3 +145,8 @@ h2{
     color: white;
     border-radius: 15px;
 }
+span.highlight {
+    background-color: yellow;
+    font-weight: bold;
+    font-style: italic;
+}
