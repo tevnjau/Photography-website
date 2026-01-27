@@ -150,3 +150,12 @@ span.highlight {
     font-weight: bold;
     font-style: italic;
 }
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px 0;
+    background-color: #333;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 24px 4px 5px rgba(4, 0, 0, 0.1);
+}
