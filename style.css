@@ -6,7 +6,6 @@
     margin-bottom: 20px;
     box-shadow: 24px 4px 5px rgba(4, 0, 0, 0.1);
     font-family: 'Arial', sans-serif;
-    z-index: 1000;
     position: fixed;
 }
 .navigation ul {
