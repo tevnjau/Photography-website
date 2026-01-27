@@ -113,6 +113,7 @@ body {
     margin-bottom: 15px;
     background-color: #333;
     border-radius: 15px;
+    color: white;
 }
 .video iframe {
     border-radius: 15px;
