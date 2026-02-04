@@ -9,6 +9,9 @@ This is the first project created by Tevin in order to showcase full mastery in 
 
 ---
 
+## live site
+https://tevnjau.github.io/Photography-website/
+
 ## features
 Clean and modern design
 Image gallery layout
